@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Bolsas Microperforadas",
+    "categoria": "Banano",
+    "descripcion": "Control de humedad y mejora la calidad del racimo.",
+    "tipo": "Cobertura",
+    "subtipo": "Microperforado",
+    "presentaciones": "Rollos por metro",
+    "modoDeUso": "Colocar sobre el racimo según protocolo técnico.",
+    "imagen": "/imagenes/productos/bolsas-banano.webp"
+  },
+  {
+    "nombre": "Pamona",
+    "categoria": "Banano",
+    "descripcion": "Fungicida sistémico del grupo de los triazoles utilizado, de tipo formulación concentrado emulsionable para el control de diferentes enfermedades en cultivos. El producto llega hasta los sitios donde los patógenos se están desarrollando...",
+    "tipo": "Sistémico",
+    "subtipo": "Líquidos",
+    "presentaciones": "50 l, 5 l, 1 l.",
+    "modoDeUso": "Vierta la cantidad de producto en el tanque del recipiente a la mitad...",
+    "imagen": "/imagenes/productos/pamona.webp"
+  },
+  {
+    "nombre": "Tratamiento Foliar",
+    "categoria": "Banano",
+    "descripcion": "Estimula crecimiento y previene enfermedades.",
+    "tipo": "Foliar",
+    "subtipo": "Sistémico",
+    "presentaciones": "1L, 5L, 20L",
+    "modoDeUso": "Diluir en agua y aplicar vía foliar cada 15 días.",
+    "imagen": "/imagenes/productos/foliar-banano.webp"
+  },
+  {
+    "nombre": "CROQUETAS DOG CHOW SELECCIÓN DE PROTEÍNAS",
+    "categoria": "Alimento Perro",
+    "descripcion": "Receta con ingredientes seleccionados para un sabor especial...",
+    "tipo": "Alimento Perro",
+    "subtipo": "Croquetas",
+    "presentaciones": "2kg, 7.5Kg, 20kg",
+    "modoDeUso": "Selección de Proteinas hasta los 40 días de gestación...",
+    "imagen": "/imagenes/productos/croquetas.webp"
+  },
+  {
+    "nombre": "Maiz",
+    "categoria": "Jardineria",
+    "descripcion": "Producto institucional",
+    "precio": 12.5,
+    "imagen": "/imagenes/maizamarillo.png"
+  },
+  {
+    "nombre": "Nutripond",
+    "categoria": "Acultura",
+    "descripcion": "Suplemento multivitamínico para mejorar la resistencia y crecimiento...",
+    "tipo": "Vitaminas",
+    "subtipo": "Granulado",
+    "presentaciones": "Bolsa de 25kg",
+    "modoDeUso": "Aplicar directamente sobre el alimento, una vez al día.",
+    "imagen": "/imagenes/productos/nutripond.webp"
+  },
+  {
+    "nombre": "Oxigenador Azul",
+    "categoria": "Acultura",
+    "descripcion": "Solución líquida para aumentar los niveles de oxígeno disuelto...",
+    "tipo": "Oxigenador",
+    "subtipo": "Líquido",
+    "presentaciones": "Botella 1L, 5L",
+    "modoDeUso": "Diluir y verter directamente al estanque en horario de baja temperatura.",
+    "imagen": "/imagenes/productos/oxigenador.webp"
+  },
+  {
+    "nombre": "Biofloc Plus", 
+    "categoria": "Acultura",
+    "descripcion": "Sistema de biofloculación para mejorar la calidad del agua...",
+    "tipo": "Biofloculante",
+    "subtipo": "Polvo soluble",
+    "presentaciones": "Saco de 15kg",
+    "modoDeUso": "Mezclar con agua previamente aireada y dosificar cada 48 horas.",
+    "imagen": "/imagenes/productos/biofloc-plus.webp"
+  },
+    {
+    "nombre": "Fertimax Pro",
+    "categoria": "Agricola",
+    "descripcion": "Fertilizante granulado de liberación controlada, ideal para etapas de crecimiento inicial.",
+    "tipo": "Fertilizante",
+    "subtipo": "Granulado",
+    "presentaciones": "Sacos de 25kg",
+    "modoDeUso": "Aplicar directamente al suelo según dosis recomendada por técnico.",
+    "imagen": "/imagenes/productos/fertimax.webp",
+    "destacado": "Liberación controlada"
+  },
+  {
+    "nombre": "ControlFol",
+    "categoria": "Agricola",
+    "descripcion": "Fungicida foliar sistémico para cultivos de alto rendimiento con acción prolongada.",
+    "tipo": "Fungicida",
+    "subtipo": "Foliar",
+    "presentaciones": "1L, 5L",
+    "modoDeUso": "Diluir y aplicar con equipo de aspersión cada 15 días.",
+    "imagen": "/imagenes/productos/controlfol.webp",
+    "destacado": "Acción prolongada"
+  },
+  {
+    "nombre": "BioRaíz",
+    "categoria": "Agricola",
+    "descripcion": "Estimulador biológico de raíces, ideal para trasplante y mejora de absorción de nutrientes.",
+    "tipo": "Bioestimulante",
+    "subtipo": "Raíz",
+    "presentaciones": "Botella de 1L",
+    "modoDeUso": "Mezclar con agua y aplicar en zona radicular durante la mañana.",
+    "imagen": "/imagenes/productos/bioraiz.webp",
+    "destacado": "Estimulador radicular"
+   }
+]
