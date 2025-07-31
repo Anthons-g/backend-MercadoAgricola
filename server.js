@@ -31,10 +31,10 @@ app.use('/api/productos', productoRoutes);
 app.use('/api/capacitacion', capacitacionRoutes);
 
 app.get('/', (req, res) => {
-  res.send('🚀 Backend institucional activo en desarrollo local');
+  res.send(' Backend  activo ');
 });
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(chalk.green(`✅ Backend institucional corriendo en http://localhost:${PORT}`));
+  console.log(chalk.green(` Backend institucional corriendo en http://localhost:${PORT}`));
 });
