@@ -60,7 +60,7 @@ exports.registrarUsuario = async (req, res) => {
     const nuevoUsuario = await User.create({
       email: emailNormalizado,
       password: contraseñaHasheada,
-      rol: rol?.trim()?.toLowerCase() || 'usuario'
+      role: rol?.trim()?.toLowerCase() || 'usuario'
     });
 
     console.log('✅ Usuario creado:', nuevoUsuario);
