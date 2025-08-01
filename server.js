@@ -14,7 +14,7 @@ conectarDB();
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:3000', 'https://tu-frontend.onrender.com'],
+  origin: ['http://localhost:3000', 'https://mercado-agricola-frontend.vercel.app'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
